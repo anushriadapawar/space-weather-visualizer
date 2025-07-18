@@ -16,7 +16,7 @@ This is a real-time space weather visualizer that shows planetary **K-index** da
 
 ## 🚀 Live Preview
 
-Deployed Link:
+Deployed Link: https://space-weather-visualizer.vercel.app/
 
 ## 💡 How It Works
 
